@@ -1,4 +1,4 @@
-# autocomplete
+# Autocomplete
 
 This is autocomplete like google/flipkart search in javascript.
 It has below feature - 
